@@ -67,8 +67,8 @@
 				$gaji = 15000000;
 				break;
             	case "Cs":
-			$gaji = 5000000;
-			break;
+				$gaji = 5000000;
+				break;
             	case "Staff":
                 		$gaji = 9000000;
                 		break;
